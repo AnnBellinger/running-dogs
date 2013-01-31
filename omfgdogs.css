@@ -1,3 +1,13 @@
 body {
 	background: url('assets/omfgdogs.gif') repeat;
 }
+
+#footer{
+	position:fixed;
+	bottom:0;
+	width:100%;
+}
+
+a {
+	font-size:28px;
+}
